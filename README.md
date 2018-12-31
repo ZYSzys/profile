@@ -4,7 +4,7 @@
 
 ## Run locally
 ```sh
-# install dependenciesf
+# install dependencies
 $ yarn
 # run development
 $ yarn dev
