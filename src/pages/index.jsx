@@ -75,28 +75,28 @@ const Index = () => (
             link="https://github.com/nodejs/node"
             bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
           >
-            Member.
+            Member
           </ProjectCard>
           <ProjectCard
             title="Gatsby"
             link="https://github.com/gatsbyjs/gatsby"
             bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
           >
-            Maintainer.
+            Maintainer
           </ProjectCard>
           <ProjectCard
             title="nodejs.org"
             link="https://github.com/nodejs/node"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
-            Maintainer.
+            Maintainer
           </ProjectCard>
           <ProjectCard
             title="awesome-captcha"
             link="https://github.com/ZYSzys/awesome-captcha"
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
-            Owner.
+            Owner
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
